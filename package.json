@@ -1,0 +1,14 @@
+{
+  "name": "Footballdee",
+  "theme": "syntax",
+  "version": "0.7.0",
+  "description": "แทงบอลโลก อันดับ1 สเต็ปเทพรวมทุกเว็บไซด์",
+  "keywords": [
+    "multi88"
+  ],
+  "repository": "https://github.com/Mamaselecter/mult888.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0"
+  }
+}
